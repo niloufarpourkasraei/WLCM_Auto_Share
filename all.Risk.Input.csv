@@ -1,0 +1,55 @@
+"","Asset","Risk","PF.Low_mean","PF.High_mean","PI.Low_mean","PI.High_mean","Impact_rn_mean"
+"1","Circuit Breaker","Bad Contactor",0.05,0.325,531.25,23000,7052
+"2","Circuit Breaker","Contacts Failure",0,0.275,2062.5,121250,32436
+"3","Circuit Breaker","Control Power Failure",0.05,0.4,331.25,23000,6732
+"4","Circuit Breaker","Cracked Bushing",0.025,0.325,1325,177500,44552
+"5","Circuit Breaker","Environmental (Freezing, Lightning, etc.)",0,0.3,656.25,171250,33173
+"6","Circuit Breaker","Gas Leakage",0.05,0.3,775,121250,27532
+"7","Circuit Breaker","Loss of Control Voltage",0.05,0.45,331.25,23000,6641
+"8","Circuit Breaker","Lubrication Failure",0.025,0.225,456.5,96250.5,22147
+"9","Circuit Breaker","Mechanism Spring Failure",0.05,0.225,687.5,171250,39305
+"10","Circuit Breaker","Trip/Close Coil (Circuit Breaker)",0.05,0.325,825,171250,42781
+"11","Generator Winding, Multi-turn Coil, Stator","Brakes",0.1,0.8,20,228000,34584
+"12","Generator Winding, Multi-turn Coil, Stator","Cooling system malfunction",0.05,0.2,300,3895000,499721
+"13","Generator Winding, Multi-turn Coil, Stator","Electrical connection",0.1,0.3,1000,6e+05,128385
+"14","Generator Winding, Multi-turn Coil, Stator","Electrical insulation - Rotor",0.01,0.1,10000,4e+06,840551
+"15","Generator Winding, Multi-turn Coil, Stator","Electrical insulation - Stator",0.01,0.1,10000,4e+06,721217
+"16","Generator Winding, Multi-turn Coil, Stator","Fire",0.01,0.05,1e+05,1.5e+07,3429669
+"17","Generator Winding, Multi-turn Coil, Stator","Heat Exchanger malfunction",0.05,0.2,300,3895000,580680
+"18","Generator Winding, Multi-turn Coil, Stator","Instrumentation malfunction",0.05,0.7,100,3e+05,47240
+"19","Generator Winding, Multi-turn Coil, Stator","Protective Relays or Sensors",0.01,0.4,150,3895000,534468
+"20","Generator Winding, Multi-turn Coil, Stator","Structural - Component Failure",0.01,0.1,2500,1500000,324550
+"21","Generator Winding, Multi-turn Coil, Stator","Structural - Fatigue",0.01,0.05,1e+05,1.5e+07,3716283
+"22","Generator Winding, Multi-turn Coil, Stator","Wiped bearing - Misalignment",0.01,0.05,15000,9695000,2088122
+"23","Generator Winding, Multi-turn Coil, Stator","Wiped bearing - Vibration",0.01,0.05,15000,9695000,1982652
+"24","Pole","Attached equipment failing/fire - Poles & Overhead Structures",0.01,0.05,2000,25000,10040
+"25","Pole","Environmental Issue",0.008,0.3,3250,27500,11759
+"26","Pole","Ice/wind",0.01,0.0925,3250,27500,12581
+"27","Pole","Rot",0.075,0.6,5000,25000,13194
+"28","Pole","Structurally Overloaded",0.01,0.1,3250,25000,10842
+"29","Pole","Unauthorized equipment - Poles & Overhead Structures",0.1,0.3,3250,25000,11016
+"30","Stator","Electrical connection",0.1,0.3,1000,6e+05,123314
+"31","Stator","Electrical insulation - Stator",0.01,0.1,10000,4e+06,772311
+"32","Stator","Protective Relays or Sensors",0.01,0.4,150,3895000,570645
+"33","Stator","Structural - Fatigue",0.01,0.05,1e+05,1.5e+07,3692849
+"34","Substation Transformer","Buchholtz Relay Internal Fault",0.01525,0.16375,1312.5,1675000,315052
+"35","Substation Transformer","Buchholtz Relay Through Fault (Xfmr)",0.0055,0.14,1687.5,1675000,285449
+"36","Substation Transformer","Bushing Failure",0.00375,0.145,2750,1140000,255685
+"37","Substation Transformer","CT Failure",0.0525,0.25,2912.5,1675000,333196
+"38","Substation Transformer","Insulation Degradation (Xfmr)",0.0655,0.31625,200687.5,1362500,614878
+"39","Turbine, Runner","Auxiliary System Failure (Turbine)",0.202,0.59,320,23054000,3022748
+"40","Turbine, Runner","Bearing Failure",0.0262,0.254,245600,198484000,34747219
+"41","Turbine, Runner","Blown Head Cover (Turbine)",0.074,0.494,152320,117924000,24458972
+"42","Turbine, Runner","Broken Shear Pin",0.312,0.73,31240,22826200,4383644
+"43","Turbine, Runner","Cavitation",0.074,0.57,1007600,334710000,62232544
+"44","Turbine, Runner","Corrosion",0.05,0.28,207200,127090000,23550818
+"45","Turbine, Runner","Human Error",0.312,0.73,31240,22826200,4660986
+"46","Turbine, Runner","Insturmentation Failure",0.15,0.53,4150,96605000,12028023
+"47","Turbine, Runner","Loss of Flow",0.01,0.19,3730,80751000,11256587
+"48","Turbine, Runner","Loss of Governor",0.065,0.5,13250,252780000,37538084
+"49","Turbine, Runner","Mechanical Problem",0.422,0.778,170,22939000,2442781
+"50","Turbine, Runner","Oil Leaks",0.084,0.57,3680,57730000,8721002
+"51","Turbine, Runner","Plugged",0.00422,0.074,2025000,709200000,157949698
+"52","Turbine, Runner","Turbine Blade Issue",0.052,0.26,43540,199460000,33458528
+"53","Turbine, Runner","Wear",0.074,0.494,152320,117924000,24599878
+"54","Turbine, Runner","Wiped Bearing",0.018,0.216,43580,51701000,9069791
